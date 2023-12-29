@@ -1,0 +1,22 @@
+main {
+  margin-left: 15%;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  gap: 10%;
+}
+
+.landingpage div {
+  background-color: #a2d2ff;
+  text-align: center;
+  border-radius: 20px;
+  padding: 5%;
+  color: white;
+}
+
+.landingpage div h2 {
+  font-size: 5rem;
+  margin-top: 10px;
+  color: #ffc8dd;
+}

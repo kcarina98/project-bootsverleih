@@ -1,0 +1,72 @@
+.boot-form div {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.boot-form label {
+  display: block;
+  text-align: center;
+  padding: 20px 0 10px 0;
+}
+
+.boot-form input {
+  width: 100%;
+  text-align: center;
+  border: 1px solid #a2d2ff;
+  background-color: #a2d2ff5d;
+  padding: 10px 0;
+  border-radius: 50px;
+  font-size: 1rem;
+}
+
+.boot-form select {
+  width: 100%;
+  background-color: #a2d2ff5d;
+  text-align: center;
+  border: 1px solid #a2d2ff;
+  padding: 10px 0;
+  border-radius: 50px;
+  font-size: 1rem;
+}
+
+.boot-form .button {
+  width: 30%;
+  display: block;
+  margin: 50px auto;
+  background-color: #ffafcc;
+  text-align: center;
+  border: none;
+  padding: 10px 0;
+  border-radius: 50px;
+  font-size: 1rem;
+  color: white;
+  transition: all 0.7s linear;
+}
+
+.boot-form .button:hover {
+  background-color: #a2d2ff;
+  box-shadow: 0px 0px 10px #ffafcc;
+  color: white;
+}
+
+.form-headline {
+  text-align: center;
+  padding: 50px;
+  font-family: roboto-bold;
+  letter-spacing: 5px;
+  color: #cdb4db;
+}
+
+.reservierung-list a {
+  color: white;
+  text-decoration: none;
+  line-height: 50px;
+}
+
+.reservierung {
+  background-color: lightgrey;
+  width: 70%;
+  margin: 50px auto;
+  border-radius: 30px;
+  padding: 5%;
+}
